@@ -38,6 +38,22 @@ This project is a **real-time object detection application** built using Python.
    ```bash
    pip install torch ultralytics opencv-python-headless pillow
 
+### Project Screenshots
+
+Here are some snapshots of the project:
+
+![Snapshot 1](snapshot1.png)
+![Snapshot 2](snapshot2.png)
+![Snapshot 3](snapshot3.png)
+
+It would detect ['person', 'car', 'bike'] as main objects and
+        {
+            'person': ['helmet', 'backpack'],
+            'car': ['license plate', 'wheel'],
+            'bike': ['helmet']
+        }
+        as subobjects
+
 ## Steps to Run:
 
 ### Download the YOLO Model:
@@ -95,4 +111,5 @@ pip install ultralytics
 pip install opencv-python
 pip install pillow
 pip install numpy
+
 
