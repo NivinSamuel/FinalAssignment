@@ -2,6 +2,9 @@
 
 This project is a **real-time object detection application** built using Python. It uses the **YOLOv8 model** for detecting objects in a video feed from a camera. The detections are enhanced with a **hierarchical association**, meaning it can associate main objects (like a person) with their related sub-objects (like a backpack).
 
+
+HierachyDetectionLive : It Detects Objects in hierarchy in the live video feed.
+HierarchicalDetectionVideo :  It Detects Objects in hierarchy from an video that is uploaded.
 ---
 
 HierachyDetectionLive : It Detects Objects in hierarchy in the live video feed.
