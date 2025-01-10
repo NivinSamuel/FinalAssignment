@@ -7,9 +7,6 @@ HierachyDetectionLive : It Detects Objects in hierarchy in the live video feed.
 HierarchicalDetectionVideo :  It Detects Objects in hierarchy from an video that is uploaded.
 ---
 
-HierachyDetectionLive : It Detects Objects in hierarchy in the live video feed.
-HierarchicalDetectionVideo :  It Detects Objects in hierarchy from an video that is uploaded.
-
 ## Simplified Explanation
 
 ### What It Does:
